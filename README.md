@@ -13,3 +13,13 @@ This is fifth write !!!
 This is sixth write !!!
 
 哈哈哈哈，好烦啊！
+
+这是son !
+
+让你拉一把瞅瞅 ！
+
+00000000
+
+12345
+
+1111111
